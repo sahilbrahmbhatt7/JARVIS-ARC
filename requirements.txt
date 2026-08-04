@@ -1,0 +1,16 @@
+eel
+SpeechRecognition
+pygame
+pywhatkit
+requests
+numpy
+torch
+pyaudio
+pvporcupine
+sounddevice
+openrgb-python
+python-whois
+dnspython
+hugchat
+pyautogui
+TTS

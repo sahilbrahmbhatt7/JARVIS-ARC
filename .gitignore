@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# Database (Remove this line if jarvis.db is required)
+# jarvis.db
+
+# Runtime Files
+PyWhatKit_DB.txt
+
+# OS Files
+.DS_Store
+Thumbs.db
